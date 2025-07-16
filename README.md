@@ -29,8 +29,8 @@ It intelligently handles clustered apps, throttles notifications to prevent spam
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone git@github.com:jiwonio/pm2-monitor.git
+    cd pm2-monitor
     ```
 
 2.  **Install dependencies:**
